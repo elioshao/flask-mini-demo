@@ -1,0 +1,8 @@
+Flask==1.1.1
+Flask-Caching==1.7.2
+flask-limiter==1.0.1
+Flask-SQLAlchemy==2.2
+flask-jwt-extended==3.18.1
+Flask-API==1.1
+flasgger==0.9.3
+flask-redis==0.3.0
