@@ -1,4 +1,4 @@
-Flask==1.1.1
+Flask==2.3.2
 Flask-Caching==1.7.2
 flask-limiter==1.0.1
 Flask-SQLAlchemy==2.2
